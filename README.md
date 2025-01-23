@@ -21,7 +21,7 @@ Nt-DLL-Injection-C
 
 -Lastly the malicious DLL is loaded in the address space of the targeted process.
 
-
+-----------------------------------------------------------------------------------------------
 
 ### STAGE 2 --> malicious_dll.dll
 
@@ -37,13 +37,13 @@ Nt-DLL-Injection-C
 
 -I used my previous obfuscated reverese shell code I wrote before --> https://github.com/BiLLY-J03l/reverse-shell-c
 
-
+-----------------------------------------------------------------------------------------------
 
 ### COMPILATION
     cl loader.c
     cl /LD malicious_dll.c
     
-
+-----------------------------------------------------------------------------------------------
 
 ### EXECUTION
 
@@ -60,7 +60,7 @@ Nt-DLL-Injection-C
 
 ![image](https://github.com/user-attachments/assets/56c9f9fe-6372-4b10-891b-b7484d707bab)
 
-
+-----------------------------------------------------------------------------------------------
 
 ### VirusTotal Analysis
 
