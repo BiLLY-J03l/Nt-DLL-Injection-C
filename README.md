@@ -33,9 +33,9 @@ Nt-DLL-Injection-C
 
 -I created a mutex to ensure that the once the connection is established, no more connections are made.
 
--I used the NtCreateThreadEx to stealthly create a thread in the target process where the reverse shell is executed.
+-I used the NtCreateThreadEx to stealthily create a thread in the target process where the reverse shell is executed.
 
--I used my previous obfuscated reverese shell code I wrote before --> https://github.com/BiLLY-J03l/reverse-shell-c
+-I used my previous obfuscated reverse shell code I wrote before --> https://github.com/BiLLY-J03l/reverse-shell-c
 
 -----------------------------------------------------------------------------------------------
 
