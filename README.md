@@ -31,7 +31,7 @@ Nt-DLL-Injection-C
 
 -We need to let the user feel that everything is normal as usual.
 
--I created a mutex to ensure that the once the connection is established, no more connections are made.
+-I created a mutex to ensure that once the connection is established, no more connections are made.
 
 -I used the NtCreateThreadEx to stealthily create a thread in the target process where the reverse shell is executed.
 
