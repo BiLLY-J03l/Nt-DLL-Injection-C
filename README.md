@@ -36,3 +36,10 @@ Nt-DLL-Injection-C
 -I used the NtCreateThreadEx to stealthly create a thread in the target process where the reverse shell is executed.
 
 -I used my previous obfuscated reverese shell code I wrote before --> https://github.com/BiLLY-J03l/reverse-shell-c
+
+
+#### COMPILATION
+    cl loader.c
+    cl /LD malicious_dll.c
+    
+
