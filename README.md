@@ -64,12 +64,12 @@ Nt-DLL-Injection-C
 
 ### VirusTotal Analysis
 
-** Loader.exe **
+**Loader.exe**
 
 ![image](https://github.com/user-attachments/assets/4546b8ab-23a9-4c79-969b-1fd1f88a9d22)
 
 
-** malicious_dll.dll **
+**malicious_dll.dll**
 
 ![image](https://github.com/user-attachments/assets/c22fe722-aee0-450e-bdc4-52c68ce471f5)
 
