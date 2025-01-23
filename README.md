@@ -58,6 +58,23 @@ Nt-DLL-Injection-C
 
 ![image](https://github.com/user-attachments/assets/b5f45b02-584c-4056-ae24-06b3ce082fcd)
 
+![image](https://github.com/user-attachments/assets/56c9f9fe-6372-4b10-891b-b7484d707bab)
+
+
+
+### VirusTotal Analysis
+
+** Loader.exe **
+
+![image](https://github.com/user-attachments/assets/4546b8ab-23a9-4c79-969b-1fd1f88a9d22)
+
+
+** malicious_dll.dll **
+
+![image](https://github.com/user-attachments/assets/c22fe722-aee0-450e-bdc4-52c68ce471f5)
+
+
+
 
 
 
