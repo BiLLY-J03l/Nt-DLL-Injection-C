@@ -47,7 +47,19 @@ Nt-DLL-Injection-C
 
 ### EXECUTION
 
--I commented out all the printf statements to make it stealthier, you can uncomment them in the code and see the details.
+-I commented out most the printf statements to make it stealthier, you can uncomment them in the code and see the details.
+
+
+![image](https://github.com/user-attachments/assets/3df437be-73a3-4ac3-9e38-87f6e50d30a7)
+
+![image](https://github.com/user-attachments/assets/187a909b-5cd0-43e1-b992-175e12c1e6ba)
+
+![image](https://github.com/user-attachments/assets/d48f0da0-8dba-48fc-8fe3-78209e8a895b)
+
+![image](https://github.com/user-attachments/assets/b5f45b02-584c-4056-ae24-06b3ce082fcd)
+
+
+
 
 
 
