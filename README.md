@@ -9,7 +9,7 @@ Nt-DLL-Injection-C
 
 -Then it explicitly gets the functions it needs from the loaded DLLs implementing offsets obfuscation.
 
--It creates a mutex to ensure that the instance is ran once and exits if the exe is executed again.
+-It creates a mutex to ensure that the instance is run once and exits if the exe is executed again.
 
 -Then it enumerates all the processes in the system and searches for notepad.exe (you can change that in the enum_processes() function.
 
